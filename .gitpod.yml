@@ -131,6 +131,9 @@ tasks:
 vscode:
   extensions:
     - bbenoist.Nix
+    - vscodevim.vim
+    - esbenp.prettier-vscode
+    - unthrottled.doki-theme
 
 ## The 'github' section defines configuration of continuous prebuilds
 ## for GitHub repositories when the GitHub application
