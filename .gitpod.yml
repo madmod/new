@@ -134,6 +134,7 @@ vscode:
     - vscodevim.vim
     - esbenp.prettier-vscode
     - unthrottled.doki-theme
+    - eamodio.gitlens
 
 ## The 'github' section defines configuration of continuous prebuilds
 ## for GitHub repositories when the GitHub application
